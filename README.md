@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+## For ng.ps1 Error (You can run this on this on your terminal)
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
